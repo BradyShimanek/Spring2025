@@ -1,0 +1,81 @@
+/* For the <span> element, set the border all around to be 6 pixels, dashed, and red.
+span {
+    border: 6px dashed red;
+} */
+
+
+
+/* For the <span> element, set the left border to be 5 pixels, double, and green.
+span {
+    border-left: 5px double green;
+} */
+
+
+
+/* For the <span> element, set the border all around to be 3 pixels, dashed, and green. Also, set the margin all around to 4 pixels, and set both the left and right padding to 10 pixels. */
+/* span {
+    border: 3px dashed green;
+    margin: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+} */
+
+
+
+/* Set background-color to "coral" for the element with ID highlight. */
+/* #highlight {
+    background-color: coral;
+} */
+
+
+
+
+/* Set color to "deeppink" for any span element that is a descendant of a li element. */
+/* li > span {
+    color: deeppink;
+} */
+
+
+
+/* Set background-color to "gold" for any button element that is enabled. */
+/* button:enabled {
+    background-color: gold;
+} */
+
+
+
+/* Complete the CSS attribute selector to set the opacity to 0.3 for all <img> elements with an alt attribute beginning with "often". */
+/* img[alt^="often"] {
+    opacity: 0.3;
+ } */
+
+
+
+ /* For the <p> element, set the text-shadow to be blue with an offset-x of 4px and offset-y of 11px. */
+ /* p {
+    text-shadow: blue 4px 11px;
+ } */
+
+
+
+ /* For the <div> element, set each corner of the border to have a radius of 6px. */
+ /* div {
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+ 
+    border-radius: 6px;
+ 
+ } */
+
+
+
+ /* For the <div> element, set the bottom-left corner of the border to have a radius of 8px and the top-right corner to 14px. */
+ /* div {
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+    border-bottom-left-radius: 8px;
+    border-top-right-radius: 14px;
+ 
+ } */
