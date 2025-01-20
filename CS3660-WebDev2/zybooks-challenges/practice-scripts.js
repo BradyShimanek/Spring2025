@@ -93,3 +93,37 @@
 
 
 
+// let courses = {
+//     170: {
+//         title: "Intro to Programming",
+//         description: "Develop algorithms for computers.",
+//         creditHours: 5
+//     },
+//     250: {
+//         title: "Web Dev",
+//         description: "Build web apps.",
+//         creditHours: 3
+//     },
+//     310: {
+//         title: "Operating Systems",
+//         description: "Process management and memory management.",
+//         creditHours: 3
+//     },
+//     430: {
+//         title: "Artificial Intelligence",
+//         description: "simulate human thinking.",
+//         creditHours: 2
+//     }
+// };
+
+// for (let thing in courses) {
+//     let creditHours = courses[thing].creditHours;
+//     if (creditHours === 3) {
+//         console.log(courses[thing].title);
+//     }
+// }
+// this code is looping through the courses object and checking if the credit hours is equal to 3
+// output is Web Dev and Operating Systems because they have 3 credit hours
+
+
+
